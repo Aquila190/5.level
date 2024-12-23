@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 4b5d5a4eb7925f54cab0fef3613fa7ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5383436066931022944
+    second: "Rick z\u0131plama sa\u011F_0"
+  - first:
+      213: -42164544358812846
+    second: "Rick z\u0131plama sa\u011F_1"
+  - first:
+      213: -1140135799544732633
+    second: "Rick z\u0131plama sa\u011F_2"
+  - first:
+      213: 1552182444830857603
+    second: "Rick z\u0131plama sa\u011F_3"
+  - first:
+      213: 3316903274881396839
+    second: "Rick z\u0131plama sa\u011F_4"
+  - first:
+      213: -790308383222982231
+    second: "Rick z\u0131plama sa\u011F_5"
+  - first:
+      213: 5029757107067858438
+    second: "Rick z\u0131plama sa\u011F_6"
+  - first:
+      213: -5607870217732137664
+    second: "Rick z\u0131plama sa\u011F_7"
+  - first:
+      213: -6721851853817576601
+    second: "Rick z\u0131plama sa\u011F_8"
+  - first:
+      213: 4562357579146200774
+    second: "Rick z\u0131plama sa\u011F_9"
+  - first:
+      213: -2891142092370458576
+    second: "Rick z\u0131plama sa\u011F_10"
+  - first:
+      213: 3363926204231936918
+    second: "Rick z\u0131plama sa\u011F_11"
+  - first:
+      213: -8156244181694466785
+    second: "Rick z\u0131plama sa\u011F_12"
+  - first:
+      213: 2448659336787843188
+    second: "Rick z\u0131plama sa\u011F_13"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_0"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 47
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c1378849ec5ba40800000000000000
+      internalID: 5383436066931022944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_1"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 47
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253706ff1933a6ff0800000000000000
+      internalID: -42164544358812846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_2"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 47
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7242e60f78c6d20f0800000000000000
+      internalID: -1140135799544732633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_3"
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 54
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3899db2b5b57a8510800000000000000
+      internalID: 1552182444830857603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_4"
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 56
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760b2ad64f1080e20800000000000000
+      internalID: 3316903274881396839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_5"
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 64
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a91bf276b24805f0800000000000000
+      internalID: -790308383222982231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_6"
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 68
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ea649a0794dc540800000000000000
+      internalID: 5029757107067858438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_7"
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 71
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d559dafb7dc22b0800000000000000
+      internalID: -5607870217732137664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_8"
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 76
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76307645a5f27b2a0800000000000000
+      internalID: -6721851853817576601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_9"
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 81
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6025bbb00c05f30800000000000000
+      internalID: 4562357579146200774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_10"
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 86
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038441db59990e7d0800000000000000
+      internalID: -2891142092370458576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_11"
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 89
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b6fd55f011fae20800000000000000
+      internalID: 3363926204231936918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_12"
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 92
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1531c061233fce80800000000000000
+      internalID: -8156244181694466785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Rick z\u0131plama sa\u011F_13"
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 95
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478de2971b26bf120800000000000000
+      internalID: 2448659336787843188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

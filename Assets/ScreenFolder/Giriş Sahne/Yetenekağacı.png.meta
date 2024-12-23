@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 2374fe345f484f94d96f3e3def200047
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9087459748750745335
+    second: "Yeteneka\u011Fac\u0131_0"
+  - first:
+      213: -7145682576790561776
+    second: "Yeteneka\u011Fac\u0131_1"
+  - first:
+      213: -1018597983964790101
+    second: "Yeteneka\u011Fac\u0131_2"
+  - first:
+      213: -642603735285557180
+    second: "Yeteneka\u011Fac\u0131_3"
+  - first:
+      213: 8281076988139135546
+    second: "Yeteneka\u011Fac\u0131_4"
+  - first:
+      213: -7893370860247703417
+    second: "Yeteneka\u011Fac\u0131_5"
+  - first:
+      213: 8140332018637735228
+    second: "Yeteneka\u011Fac\u0131_6"
+  - first:
+      213: -2596109589522474891
+    second: "Yeteneka\u011Fac\u0131_7"
+  - first:
+      213: -3743202608738185115
+    second: "Yeteneka\u011Fac\u0131_8"
+  - first:
+      213: -2866322808482834284
+    second: "Yeteneka\u011Fac\u0131_9"
+  - first:
+      213: -592539147355509936
+    second: "Yeteneka\u011Fac\u0131_10"
+  - first:
+      213: -2235083560045778418
+    second: "Yeteneka\u011Fac\u0131_11"
+  - first:
+      213: -3342454677334689830
+    second: "Yeteneka\u011Fac\u0131_12"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 527
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fed2fa7e742d1e70800000000000000
+      internalID: 9087459748750745335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 527
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c53bc4e8f65dc90800000000000000
+      internalID: -7145682576790561776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 527
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba289d4c7863dd1f0800000000000000
+      internalID: -1018597983964790101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 527
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44817f2be430517f0800000000000000
+      internalID: -642603735285557180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 566
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32e1bb45ab4ce270800000000000000
+      internalID: 8281076988139135546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 527
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7802482060d157290800000000000000
+      internalID: -7893370860247703417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 527
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3504a477d448f070800000000000000
+      internalID: 8140332018637735228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_7"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 527
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57817864514c8fbd0800000000000000
+      internalID: -2596109589522474891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_8"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 527
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56058d74f097d0cc0800000000000000
+      internalID: -3743202608738185115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_9"
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 514
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d7c49796c838d0800000000000000
+      internalID: -2866322808482834284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_10"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 527
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bac5ee8c0e6c7f0800000000000000
+      internalID: -592539147355509936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_11"
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 527
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ae72818536bf0e0800000000000000
+      internalID: -2235083560045778418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yeteneka\u011Fac\u0131_12"
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 527
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad77f971e273d91d0800000000000000
+      internalID: -3342454677334689830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Yeteneka\u011Fac\u0131_0": 9087459748750745335
+      "Yeteneka\u011Fac\u0131_1": -7145682576790561776
+      "Yeteneka\u011Fac\u0131_10": -592539147355509936
+      "Yeteneka\u011Fac\u0131_11": -2235083560045778418
+      "Yeteneka\u011Fac\u0131_12": -3342454677334689830
+      "Yeteneka\u011Fac\u0131_2": -1018597983964790101
+      "Yeteneka\u011Fac\u0131_3": -642603735285557180
+      "Yeteneka\u011Fac\u0131_4": 8281076988139135546
+      "Yeteneka\u011Fac\u0131_5": -7893370860247703417
+      "Yeteneka\u011Fac\u0131_6": 8140332018637735228
+      "Yeteneka\u011Fac\u0131_7": -2596109589522474891
+      "Yeteneka\u011Fac\u0131_8": -3743202608738185115
+      "Yeteneka\u011Fac\u0131_9": -2866322808482834284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

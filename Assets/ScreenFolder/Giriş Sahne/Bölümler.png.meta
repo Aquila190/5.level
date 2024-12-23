@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: d86a0717ac4ac1e4dbed08db739c7ce0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 153072992617474073
+    second: "B\xF6l\xFCmler_0"
+  - first:
+      213: 4825853498992364358
+    second: "B\xF6l\xFCmler_1"
+  - first:
+      213: -1880692325628463997
+    second: "B\xF6l\xFCmler_2"
+  - first:
+      213: 9039333220892987375
+    second: "B\xF6l\xFCmler_3"
+  - first:
+      213: -5131730496098467008
+    second: "B\xF6l\xFCmler_4"
+  - first:
+      213: -4715113295519572929
+    second: "B\xF6l\xFCmler_5"
+  - first:
+      213: -3050595122261109114
+    second: "B\xF6l\xFCmler_6"
+  - first:
+      213: 8008565389949703311
+    second: "B\xF6l\xFCmler_7"
+  - first:
+      213: 8353924266872568215
+    second: "B\xF6l\xFCmler_8"
+  - first:
+      213: -1058437675849229121
+    second: "B\xF6l\xFCmler_9"
+  - first:
+      213: -1656648979205818249
+    second: "B\xF6l\xFCmler_10"
+  - first:
+      213: -3349513403985523488
+    second: "B\xF6l\xFCmler_11"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_0"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 631
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918aba56313df1200800000000000000
+      internalID: 153072992617474073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_1"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 631
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b04895030e8f240800000000000000
+      internalID: 4825853498992364358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_2"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 669
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384bc1f4b4076e5e0800000000000000
+      internalID: -1880692325628463997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_3"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 669
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefc6b50ca9227d70800000000000000
+      internalID: 9039333220892987375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_4"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 631
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04303098d4e68c8b0800000000000000
+      internalID: -5131730496098467008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_5"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 631
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c95d0807d809eb0800000000000000
+      internalID: -4715113295519572929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_6"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 669
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686561826eb1aa5d0800000000000000
+      internalID: -3050595122261109114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_7"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 669
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84907c7ac3242f60800000000000000
+      internalID: 8008565389949703311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_8"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 631
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79974771cd91fe370800000000000000
+      internalID: 8353924266872568215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_9"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 631
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcdd1aaa8caf41f0800000000000000
+      internalID: -1058437675849229121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_10"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 631
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7787cecd7866209e0800000000000000
+      internalID: -1656648979205818249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF6l\xFCmler_11"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 631
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec88093e432481d0800000000000000
+      internalID: -3349513403985523488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "B\xF6l\xFCmler_0": 153072992617474073
+      "B\xF6l\xFCmler_1": 4825853498992364358
+      "B\xF6l\xFCmler_10": -1656648979205818249
+      "B\xF6l\xFCmler_11": -3349513403985523488
+      "B\xF6l\xFCmler_2": -1880692325628463997
+      "B\xF6l\xFCmler_3": 9039333220892987375
+      "B\xF6l\xFCmler_4": -5131730496098467008
+      "B\xF6l\xFCmler_5": -4715113295519572929
+      "B\xF6l\xFCmler_6": -3050595122261109114
+      "B\xF6l\xFCmler_7": 8008565389949703311
+      "B\xF6l\xFCmler_8": 8353924266872568215
+      "B\xF6l\xFCmler_9": -1058437675849229121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
