@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mimic lick_0: 8678124711052061693
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

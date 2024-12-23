@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Rick Sapan Sa\u011F_0": 5049312054083020297
+      "Rick Sapan Sa\u011F_1": 3122474081585190755
+      "Rick Sapan Sa\u011F_2": -6473248544329045004
+      "Rick Sapan Sa\u011F_3": -620541732789753507
+      "Rick Sapan Sa\u011F_4": -6265515707604155672
+      "Rick Sapan Sa\u011F_5": 958845098939962987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

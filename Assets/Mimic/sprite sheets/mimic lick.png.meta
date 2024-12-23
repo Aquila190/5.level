@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mimic lick_0: 8678124711052061693
+      mimic lick_1: 8481625075326080005
+      mimic lick_2: -416143992263826454
+      mimic lick_3: 544576395696292897
+      mimic lick_4: -4577502420514049891
+      mimic lick_5: 750303602690900875
+      mimic lick_6: -922537725825516393
+      mimic lick_7: -5172449586617211997
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
