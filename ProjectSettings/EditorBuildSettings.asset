@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PsuseScreen.unity
     guid: 05133d01e2fbd754081d3db5eb874370
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: 9ab8e48a2a0fac64dbb5639360c73345
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
